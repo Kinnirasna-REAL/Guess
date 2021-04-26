@@ -3,6 +3,8 @@ Random guessing game with color-ascii suppourt
 
 # Installation
 
+Clone this repo and move into the directory and do:
+
 ```shell
 chmod 777 install.sh && ./install.sh
 ```
