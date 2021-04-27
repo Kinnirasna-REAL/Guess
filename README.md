@@ -1,4 +1,4 @@
-# Guess
+	# Guess
 Random guessing game with color-ascii suppourt
 
 # Installation
@@ -13,8 +13,7 @@ To run it do:
 ```shell
 guess
 ```
+# Screenshots
 
-# Properties
-- It uses the time as the seed for its random number generator (This could be used as an advantage).  
-- It has colourful output(Only for the terminals which do suppourt it)  
-- It is easily readable and could be hacked on..
+<img src="https://i.ibb.co/TB5hwKX/1619498725.png">
+
