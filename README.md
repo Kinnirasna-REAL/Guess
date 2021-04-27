@@ -6,7 +6,7 @@ Random guessing game with color-ascii suppourt
 Clone this repo and move into the directory and do:
 
 ```shell
-chmod 777 install.sh && ./install.sh
+chmod 700 install.sh && ./install.sh
 ```
 
 To run it do:
