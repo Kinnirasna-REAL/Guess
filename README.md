@@ -6,12 +6,12 @@ Random guessing game with color-ascii suppourt
 Clone this repo and move into the directory and do:
 
 ```shell
-chmod 700 install.sh && ./install.sh
+$ chmod 700 install.sh && ./install.sh
 ```
 
 To run it do:
 ```shell
-guess
+$ guess
 ```
 # Screenshots
 
